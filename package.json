@@ -1,5 +1,5 @@
 {
-  "name": "npm-template",
+  "name": "npm-template-ice",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -22,9 +22,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ink-song/npm-tempalate/issues"
+    "url": "https://github.com/ink-song/npm-template-ice/issues"
   },
-  "homepage": "https://github.com/ink-song/npm-tempalate#readme",
+  "homepage": "https://github.com/ink-song/npm-template-ice#readme",
   "devDependencies": {
     "@types/jest": "^27.5.1",
     "jest": "^28.1.0",
