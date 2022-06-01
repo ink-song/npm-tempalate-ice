@@ -1,4 +1,4 @@
-import Person from '../index'
+import { Greeter } from '../index'
 test('a person eating', () => {
-  expect(new Person('ice')).toBe('ice 在吃饭')
+  expect(Greeter('ice')).toBe('Hello ice')
 })
